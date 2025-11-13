@@ -3,7 +3,7 @@
 A simple yet powerful **Python GUI tool** that extracts detailed file metadata such as file name, type, size, creation time, last modification, and access time.  
 Built using **Python’s tkinter** for a lightweight and user-friendly experience — no external dependencies required.
 
----
+----
 
 ## 📸 Preview
 
